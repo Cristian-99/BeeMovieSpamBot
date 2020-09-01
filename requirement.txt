@@ -1,0 +1,5 @@
+pyautogui==0.9.33
+time==0.9.50
+winsound==0.9.33
+sys==0.9.33
+keyboard==0.9.33
